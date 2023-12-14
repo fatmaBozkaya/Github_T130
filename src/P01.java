@@ -3,5 +3,8 @@ public class P01 {
         int a = 128;
         int b = 256;
         System.out.println("iki sayının Toplamı:" + (a + b));
+        // git add .
+        //git commit -m "mesajınız"
+        //git push
     }
 }
